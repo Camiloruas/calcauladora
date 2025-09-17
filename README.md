@@ -2,6 +2,10 @@
 
 Uma calculadora simples e funcional desenvolvida com foco na manipulação do DOM e na aplicação de Factory Functions em JavaScript.
 
+## Demonstração
+
+[Clique aqui para testar a calculadora](https://camiloruas.github.io/calcauladora/).
+
 ## Visão Geral
 
 Este projeto apresenta uma interface de calculadora padrão, permitindo a execução de operações matemáticas básicas. Foi criado como um exercício prático para aprofundar os conhecimentos em desenvolvimento web front-end.
