@@ -25,12 +25,12 @@ function criaCalculadora() {
       try {
         conta = eval(conta);
         if (!conta) {
-          alert("Conta Invalida");
+          alert("Conta Inválida");
           return;
         }
         this.display.value = String(conta);
       } catch (error) {
-        alert("conta invalida");
+        alert("conta Inválida");
       }
     },
 
